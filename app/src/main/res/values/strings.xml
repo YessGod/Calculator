@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Very cool App</string>
+    <string name="welcome">Welcome to my app</string>
+    <string name="author">Made by Yedres Yesset 11A</string>
+    <string name="depositbtn">Deposit calculator</string>
+    <string name="calc_choice">Press the button</string>
+    <string name="deposit_calc">Deposit Calculator</string>
+    <string name="dep_sum">Deposit amount</string>
+    <string name="interest">Deposit interest(%)</string>
+    <string name="dep_period">Deposit Period</string>
+    <string name="radio_years">Years</string>
+    <string name="radio_months">Months</string>
+    <string name="goback">Go back</string>
+    <string name="depCalculate">Calculate</string>
+    <string name="timer">Spent time on this page:</string>
+</resources>
